@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello! 
 
-<!--
-**keesmoo/keesmoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kadek Bisma Dharmasena**.
 
-Here are some ideas to get you started:
+I'm an **Informatics Student** at **Udayana University** with a growing passion for technology and its continuous evolution. Throughout my journey, I’ve worked with various programming languages and tools, including C, Java, JavaFX, Python, Kotlin, HTML, CSS, and JavaScript, which have helped me tackle diverse projects and challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I recently had the privilege of participating in **Bangkit Academy 2024, Batch 2**, a program powered by Google, Tokopedia, Gojek, and Traveloka, where I gained hands-on knowledge in mobile app development using Kotlin and worked with a talented team on an impactful Android capstone project.
+
+I'm always eager to learn and grow, and I’m looking for opportunities to contribute to the tech community. Let’s connect and build the future together!
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kadek-bisma-dharmasena/).
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
