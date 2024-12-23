@@ -8,7 +8,10 @@ I recently had the privilege of participating in **Bangkit Academy 2024, Batch 2
 
 I'm always eager to learn and grow, and I’m looking for opportunities to contribute to the tech community. Let’s connect and build the future together!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kadek-bisma-dharmasena/).
+### 📫 Feel free to connect with me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/kadek-bisma-dharmasena)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kadekbismaa_/)
 
 ### Github Statistic
 <p align="left">
